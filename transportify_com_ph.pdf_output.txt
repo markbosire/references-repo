@@ -1,0 +1,95 @@
+**Target Audience**
+
+* Individuals and businesses in need of on-demand transportation services
+
+**Pricing**
+
+* Pay-as-you-go pricing model
+* Discounts for regular users
+* Flexible pricing options for businesses
+
+**Key Features**
+
+* On-demand ride-hailing app
+* GPS tracking
+* Real-time fare estimates
+* Multiple payment options
+* 24/7 customer support
+
+**Marketing/Sales Strategy**
+
+* Online advertising through Google, Facebook, and other platforms
+* Partnerships with local businesses and events
+* Referral programs for existing users
+* Social media marketing to promote the brand and engage with customers
+
+**Strengths**
+
+* User-friendly app
+* Reliable and efficient service
+* Competitive pricing
+* Positive customer reviews
+
+**Weaknesses**
+
+* Limited availability in certain areas
+* Potential safety concerns
+* Increased traffic congestion
+
+**Opportunities**
+
+* Expansion into new markets
+* Integration with other transportation services
+* Developing new revenue streams, such as subscription-based plans
+
+**Threats | Social, Technological, Economic, Environmental, and Political factors**
+
+**Social**
+
+* Public perception of ride-hailing services
+* Safety concerns related to ride-sharing
+
+**Technological**
+
+* Advancement of autonomous vehicles
+* Increased competition from other ride-hailing apps
+
+**Economic**
+
+* Fluctuating fuel prices
+* Economic downturn affecting demand for transportation services
+
+**Environmental**
+
+* Environmental concerns related to increased traffic congestion
+* Emissions from ride-hailing vehicles
+
+**Political**
+
+* Government regulations on ride-hailing services
+* Changes in transportation policies
+
+**Porter's Five Forces**
+
+* **Rivalry among existing competitors:** High, due to numerous similar ride-hailing apps
+* **Threat of new entrants:** Moderate, due to significant investment required
+* **Bargaining power of buyers:** Moderate, as customers have alternative transportation options
+* **Bargaining power of suppliers:** Low, as there are many drivers available
+* **Threat of substitutes:** Moderate, as there are other forms of transportation
+
+**Value Chain Analysis**
+
+**Primary Activities**
+
+* Inbound logistics: Onboarding drivers and vehicles
+* Production: Providing ride-hailing services
+* Outbound logistics: Connecting riders with drivers
+* Marketing and sales: Promoting the brand and acquiring customers
+* Service: Providing customer support
+
+**Support Activities**
+
+* Infrastructure: Developing and maintaining the app platform
+* Human resource management: Recruiting and training drivers
+* Technology development: Improving the app's functionality and features
+* Procurement: Acquiring vehicles and other resources
